@@ -1,2 +1,5 @@
 print("Hello guorld, nah mentira, ")
-print(12+3)
+edad = input("dame tu edad gato")
+print(edad)
+
+
